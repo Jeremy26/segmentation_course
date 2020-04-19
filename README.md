@@ -3,7 +3,7 @@
 In this course, you will learn to build an image segmentation system for driveable area detection.
 The course can be found here: https://jeremycohen.podia.com/image-segmentation.
 
-![alt text](https://media.giphy.com/media/J4CEIjyUOWH5ksC8oa/giphy.gif)
+![](dad.gif)
 
 ## DATASET
 The dataset can be found in the course at this address.
